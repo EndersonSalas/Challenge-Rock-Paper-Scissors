@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Rock-Paper-Scissors";
+}
+
+<h2>It's time to play Rock-Paper-Scissors!!!</h2>
+<br />
+@using (Html.BeginForm("ResultWinner", "Play", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{<center>
+        <input type="file" name="file" id="file" />
+        <br>
+     <input type="submit" value="Upload file" class="btn btn-info" />
+    </center>
+}
+
+<h2>How to play Rock-Paper-Scissors</h2>
+
+<p style="padding:0px" class="col-lg-12">
+    In a game of rock-paper-scissors, each player chooses to play Rock (R), Paper (P), or Scissors (S). 
+    The rules are: Rock beats Scissors, Scissors beats Paper, but Paper beats Rock. 
+    A rock-paper-scissors game is encoded as a list, where the elements are 2-element lists that encode a player’s name and a player’s strategy.
+    If both players use the same strategy, the first player is the winner.the first place earns 3 points while the second place earns 1 point.
+    <br /><br />Example:
+</p>
+<p style="padding:0px" class="col-lg-12">
+    [[ "Armando", "P" ], [ "Dave", "S" ]]
+    # => returns the list ["Dave", "S"] wins since S>P
+</p>
+<h2>Start the game</h2>
+<p style ="padding:0px" class="col-lg-12">
+    You only need to do a tourment in a .txt file like example before or download the nexts examples for start the game:
+<br /><br />
+    <a href="~/Records/Examples/ExampleTournamentOne.txt">ExampleTournamentOne.txt</a><br />
+    <a href="~/Records/Examples/ExampleTournamentTwo.txt">ExampleTournamentTwo.txt</a>
+</p>
+
+<p style ="padding:0px" class="col-lg-12">The next step is to upload the file in the begin in this page </p>
+<h2>Top Ten</h2>
+
+<p style="padding:0px" class="col-lg-12">
+    You can see the positions of the playes in this link @Html.ActionLink("Top Ten", "TopTen", "Play"). An also the possibility to clear or reset the table in the database. 
+</p>
+<h2>Web Api</h2>
+
+<p style="padding:0px" class="col-lg-12">
+    This web page work with a Rest API Web Service, which documentation it's in the following link <a href="http://webservicerockpaper.azurewebsites.net/Help">Rest API</a>. 
+    This provides the methods to put the winners in the database and the method to show the top ten.
+</p>

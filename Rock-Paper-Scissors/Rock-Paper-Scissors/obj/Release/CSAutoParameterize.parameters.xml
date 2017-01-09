@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-Rock-Paper-Scissors-20150320033751.mdf;Initial Catalog=aspnet-Rock-Paper-Scissors-20150320033751;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Ender\\Desktop\\Challenge-Rock-Paper-Scissors-Enderson\ Salas\ \(1\)\\Rock-Paper-Scissors\\Rock-Paper-Scissors\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="DBRockPaperScissorsEntities-Web.config Connection String" description="DBRockPaperScissorsEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.EntityModel.csdl|res://*/Models.EntityModel.ssdl|res://*/Models.EntityModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=cmwaix1wei.database.windows.net;initial catalog=DBRockPaperScissors;user id=Enderson;password=Rockpaper123;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Ender\\Desktop\\Challenge-Rock-Paper-Scissors-Enderson\ Salas\ \(1\)\\Rock-Paper-Scissors\\Rock-Paper-Scissors\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBRockPaperScissorsEntities']/@connectionString" />
+  </parameter>
+</parameters>

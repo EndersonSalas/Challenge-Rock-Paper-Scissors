@@ -1,0 +1,19 @@
+[
+[
+[ [Armando, P], [Dave, S] ],
+[ [Alejandro, R], [Michael, S] ],
+],
+[
+[ [Allen, S], [Omer, P] ],
+[ [John, R], [Robert, P] ]
+]
+][
+[
+[ [Enderson, P], [Pedro, S] ],
+[ [Maria, R], [Mikel, S] ],
+],
+[
+[ [Allan, S], [Homero, P] ],
+[ [Johnny, R], [Roberto, P] ]
+]
+]

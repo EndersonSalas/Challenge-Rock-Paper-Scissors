@@ -1,0 +1,42 @@
+﻿@model Rock_Paper_Scissors.Models.Winner
+
+@{
+    ViewBag.Title = "Result of the tournament";
+}
+
+
+@if (!Model.strategy.Equals(""))
+{
+<div>
+ 
+    <h1 style="color: green">Winner</h1>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Name: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            Strategy:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.strategy)
+        </dd>
+
+    </dl>
+</div>
+}
+else
+{
+    <h1 style="font-weight:bold"> Error </h1>
+    <div style="font-size:20px !important" class="alert-warning"> @Model.name</div>
+}
+<br />
+<p>
+    @Html.ActionLink("Back", "Index")
+</p>

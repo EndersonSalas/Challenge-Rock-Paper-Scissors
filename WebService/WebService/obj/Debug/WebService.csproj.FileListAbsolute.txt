@@ -1,0 +1,251 @@
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\WebService.dll.config
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\WebService.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\WebService.pdb
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Antlr3.Runtime.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\EntityFramework.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Newtonsoft.Json.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Owin.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Helpers.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Http.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Http.Owin.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Mvc.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Optimization.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Razor.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.WebPages.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\WebGrease.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Newtonsoft.Json.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Helpers.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Http.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Mvc.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Optimization.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Razor.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.WebPages.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Antlr3.Runtime.pdb
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\EntityFramework.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\System.Web.Http.Owin.xml
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.Http.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\EntityFramework.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Ender\Documents\Visual Studio 2013\Projects\WebService\WebService\bin\XmlDocument.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebService.dll.config
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebService.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebService.pdb
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\XmlDocument.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Antlr3.Runtime.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Newtonsoft.Json.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Helpers.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Mvc.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Optimization.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Razor.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebGrease.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Newtonsoft.Json.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Helpers.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Mvc.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Optimization.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Razor.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Antlr3.Runtime.pdb
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.Owin.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Http.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\EntityFramework.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-master (1)\Challenge-Rock-Paper-Scissors-master\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebService.dll.config
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebService.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebService.pdb
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\XmlDocument.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Antlr3.Runtime.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Newtonsoft.Json.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Helpers.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.Owin.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Mvc.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Optimization.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Razor.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\WebGrease.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Newtonsoft.Json.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Helpers.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Mvc.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Optimization.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Razor.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Antlr3.Runtime.pdb
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\System.Web.Http.Owin.xml
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Http.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\EntityFramework.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\Ender\Desktop\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-Enderson Salas\Challenge-Rock-Paper-Scissors-master\WebService\WebService\obj\Debug\WebService.pdb
