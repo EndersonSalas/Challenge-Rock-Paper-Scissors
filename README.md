@@ -10,5 +10,5 @@ documentation and Website which implements the web service methods:</h5>
 
 <p>These websites are valid for 30 days because are hosted with a free plan</p>
 
----><a href="http://www.endersonsalaschallenge.somee.com/">Rock-Paper-Scissors Application</a><br/>
----><a href="http://endersonsalas-001-site1.smarterasp.net/Help">Rest API</a><br/>
+---><a href="http://endersonrockspaperscissors.azurewebsites.net/">Rock-Paper-Scissors Application</a><br/>
+---><a href="http://webservicerockpaper.azurewebsites.net/Help">Rest API</a><br/>
